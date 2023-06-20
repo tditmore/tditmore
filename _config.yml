@@ -21,8 +21,8 @@ author: Tyler Ditmore
 
 navbar-links:
   Home: 
-  Research: Research.md
-  Teaching: Teaching.md
+  Research: "Research"
+  Teaching: "Teaching"
  #  C.V.: 
   Contact: 
 
