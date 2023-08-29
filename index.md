@@ -8,7 +8,7 @@ title: ""
 
 
 
-<img style="float: left;" src="assets/ditmore_photo_2022.jpg" width="435" height="500">
+<img style="float: right;" src="assets/ditmore_photo_2022.jpg" width="435" height="500">
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
