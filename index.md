@@ -13,7 +13,7 @@ title: ""
     <p>I specialize in international political economy, with a particular focus on international taxation. My research examines new forms of tax cooperation from systemic, state, and individual perspectives. I also study other forms of international fiscal politics, including the behavior of sovereign wealth funds.</p>
    </div>
   <div style="flex: 1;">
-   <img style="float: right; border-radius: 50%;" src="assets/ditmore_photo_2022.jpg" width="325" height="375">
+   <img style="float: right; border-radius: 50%;" src="assets/ditmore_photo_2022.jpg" width="417" height="500">
 
   </div>
 </div>
