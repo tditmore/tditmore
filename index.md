@@ -7,7 +7,8 @@ title: ""
 ### About Me
 
 
-<img style="float: left;" src="assets/ditmore_photo_2022.jpg">
+
+<img style="float: left;" src="assets/ditmore_photo_2022.jpg" width="200" height="200">
 
 I am a PhD candidate in political science at the University of North Carolina at Chapel Hill. I previously received my MA in political science from UNC in 2020 and a BA in international studies from Pepperdine University. 
 
