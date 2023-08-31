@@ -1,13 +1,8 @@
-
 ---
 layout: page
 title: ""
 ---
 
-  <form>
-    <button type="button-3" formaction="https://tylerditmore.com/"> Testtest </button>
-  </form>
+<button class="button-3" role="button">Button 3</button>
 
-    <form>
-    <input type="submit" formaction="https://www.freecodecamp.org/" value="freeCodeCamp">
-    </form>
+<a href="https://www.tylerditmore.com" class="custom-button">Click Me!</a>
