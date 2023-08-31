@@ -13,7 +13,7 @@ layout: null
   border-radius: 6px;
   box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
   box-sizing: border-box;
-  color: #F4E8DD;
+  color: #FFF;
   cursor: pointer;
   display: inline-block;
   font-family: -apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
@@ -37,7 +37,7 @@ layout: null
 }
 
 .custom-button:hover {
-  background-color: #2c974b;
+  background-color: #00a68d;
 }
 
 .custom-button:focus {
