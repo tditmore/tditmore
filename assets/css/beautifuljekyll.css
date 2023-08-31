@@ -29,6 +29,7 @@ layout: null
   touch-action: manipulation;
   vertical-align: middle;
   white-space: nowrap;
+   margin: 0; 
 }
 
 .custom-button:focus:not(:focus-visible):not(.focus-visible) {
