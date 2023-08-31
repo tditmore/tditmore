@@ -57,6 +57,11 @@ layout: null
   box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
 }
 
+.button-container {
+    display: flex; /* Use flexbox layout */
+    justify-content: space-between; /* Distribute buttons evenly */
+}
+
 /* --- General --- */
 
 html {
