@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
-<button class="button-3" role="button">Button 3</button>
+<a href="https://www.tylerditmore.com/assets/Ditmore_research_statement.pdf" class="custom-button">Research Statement</a>
 
-<a href="https://www.tylerditmore.com" class="custom-button">Click Me!</a>
+<a href="https://www.tylerditmore.com/assets/Ditmore_teaching_statement.pdf" class="custom-button">Teaching Statement</a>
+
+<a href="https://www.tylerditmore.com/assets/Ditmore_DEI_statement.pdf" class="custom-button">Diversity, Equity, and Inclusion Statement</a>
